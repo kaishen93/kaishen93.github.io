@@ -1,7 +1,7 @@
 # STUDENT PORTFOLIO
 
 ## Education
-**Kang Chiao International School (KCIS) Class of 2026
+**Kang Chiao International School (KCIS) Class of 2026**
 - GPA: 4.3
 - Honors: Algebra, Geometry, Chemistry, Biology, Chinese
 - AP: AP Human Geography, AP Chinese, AP Calculus BC, AP Microeconomics, AP Computer Science A
