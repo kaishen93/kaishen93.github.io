@@ -11,7 +11,8 @@
 **Anselm Inc.; Intern / Research Assistant (2023)**
 - Developed a foundational understanding of cybersecurity through Forescout Academy’s online course; assisted with administrative duties
 - participated in sales project discussions, took detailed presentation notes
-- as the project discussions was about Forescout, my understanding of cybersecurity concepts assisted me to contribute without hardship. 
+- as the project discussions was about Forescout, my understanding of cybersecurity concepts assisted me to contribute without hardship.
+  
 **TigerGroup Co. Ltd.; Sub-teacher / Translator	(2022)**
 - Facilitated Taiwanese students’ understanding of English learning materials by translating 48 lesson plans on Artec Robot into Chinese
 - Learnt Deep Learning and Image Recognition
