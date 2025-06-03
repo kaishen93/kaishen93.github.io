@@ -25,6 +25,8 @@
 - Helped me in improving my leadership skills, since a House Vice Captain needs to make sure other council members are on task.
   
 **Music Production; Main Artist, Lyricist, Producer (2023-present)**
+
+[My Music Platforms](https://linktr.ee/dollarsignkai)
 - Used Logic Pro X to produce an extended play (EP) that was released on major streaming platforms such as Spotify, achieving about 1,000 streams
 - Cultivate my music production techniques such as pitching, compressing, mastering, and mixing to create soul and rap music.
   
