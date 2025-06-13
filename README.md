@@ -64,7 +64,7 @@
 - Coursera: AI For Everyone Course Certificate (2024)
 - Sydney 2024 Australian Open URC Champion (2024)
 - Certiport Information Technology Specialist Python Certificate
-![ITS Python](/assets/img/IMG_4337.jpeg)
+![ITS Python](/assets/img/IMG_4337.JPG)
 
 ## Languages & Skills
 - English: Intermediate
