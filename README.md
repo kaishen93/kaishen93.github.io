@@ -68,7 +68,8 @@
 - English: Intermediate
 - Chinese: Native
 - Spanish: Fluent
-- Musical Instruments: Guitar, Drums, Music Production 
+- Musical Instruments: Guitar, Drums, Music Production
+- Coding: Python; Java
 
 
 
